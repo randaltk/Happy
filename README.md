@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".github/Logo.png" alt="Happy" />
+  <img src="https://github.com/randaltk/Happy/blob/Day01/src/images/Logo.png" alt="Happy" />
 </p>
 
 <p align="center">
