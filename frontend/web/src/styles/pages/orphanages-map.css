@@ -5,10 +5,9 @@
   position: relative;
   display: flex;
 }
-
 #page-map aside {
   width: 440px;
-  background: linear-gradient(329.54deg, #15b6d6 0%, #15d6d6 100%);
+  background: linear-gradient(329.54deg, #29b6d1 0%, #00c7c7 100%);
   padding: 80px;
 
   display: flex;
@@ -24,20 +23,20 @@
 }
 
 #page-map aside p {
-  line-height: 20px;
+  line-height: 28px;
   margin-top: 24px;
 }
 
 #page-map aside footer {
   display: flex;
   flex-direction: column;
-
   line-height: 24px;
 }
 
 #page-map aside footer strong {
   font-weight: 800;
 }
+
 #page-map .leaflet-container {
   z-index: 5;
 }
